@@ -1,6 +1,7 @@
 <h1 align="center"> AMAZON PRIME MOVIES RECOMMENDATION USING APRIORI ALGORITHM</h1>
 
-![amazon-prime-video-amazon-prime](https://github.com/Roopak2498/Amazon-prime-movies-recommendation-system-using-apriori-algorithm/assets/114271093/6c4d4b64-1f8a-4b8c-b2b6-64b36ae0b0ca)
+
+![amazon-prime-amazon-prime-day](https://github.com/Roopak2498/Amazon-prime-movies-recommendation-system-using-apriori-algorithm/assets/114271093/fa4fab70-a48d-4c8c-b4eb-d187a0f85337)
 
 <h1>Description</h1>
 
